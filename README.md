@@ -13,7 +13,7 @@
 <li>Run <code>composer install</code></li>
 <li>Rename or copy <code>.env.example</code> file to <code>.env</code></li>
 <li>Run <code>php artisan key:generate</code></li>
-<li>Set your database credentials in your <code>.env</code> file</li>
+<li>Create your database and Set database credentials in your <code>.env</code> file</li>
 <li>Run migration <code>php artisan migrate</code></li>
 <li>Make something awesome!</li>
 </ul>
